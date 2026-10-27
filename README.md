@@ -3,7 +3,7 @@
 👨‍💻 **Graduado em Sistemas de Informação**  
 Construindo minha jornada no desenvolvimento Back-end focado em PHP e Laravel. 🐘 🐋
 
-[Acesse meu LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/pablo-leite-de-lima-254147249/))
+[Acesse meu LinkedIn](https://www.linkedin.com/in/pablo-leite-de-lima-254147249/)
 
 ---
 
@@ -45,14 +45,10 @@ class Pablo {
 
 ### 🚀 Projetos em Destaque
 
-*   **🚗 [AutoDrive - Sistema de Concessionária](https://github.com)**
+*   **🚗 [AutoDrive - Sistema de Concessionária](https://autodrive-laravel-app.onrender.com/)**
     *   *O que é:* Aplicação completa para gerenciamento de estoque de veículos rodando em **Laravel 11**.
-    *   *Destaques:* Hospedado ao vivo na plataforma **Render**, possui sistema de login/senha para CRUD, Form Requests dedicados, e rotinas de zelo de armazenamento de imagens.
-*   **🏦 [Sistema Bancário Simples](https://github.com)**
-    *   *O que é:* Projeto em PHP puro focado em lógica e entrada de dados via teclado (nome, valor inicial, saque, depósito). Perfeito para fixar conceitos de Orientação a Objetos.
-*   **🛒 [CRUD Mercadinho](https://github.com)**
-    *   *O que é:* Cadastro prático de itens de mercado utilizando PHP e persistência em banco de dados.
-
+    *   *Destaques:* Hospedado ao vivo na plataforma **Render**, possui sistema de login/senha para CRUD, Form Requests dedicados, e rotinas de zelo de armazenamento de imagens; para acessar: (login: admin@autodrive.com / senha: senha123)
+      
 ---
 
 ### 🎯 Objetivo profissional
