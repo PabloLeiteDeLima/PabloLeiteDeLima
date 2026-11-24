@@ -12,11 +12,11 @@ Construindo minha jornada no desenvolvimento Back-end focado em PHP e Laravel. �
 ```php
 class Pablo {
     public string \$area = "Desenvolvimento Back-end";
-    public string \$frameworkPrincipal = "Laravel 11";
-    public array \$linguagens = ["PHP 8.x", "JavaScript"];
+    public string \$frameworkPrincipal = "Laravel";
+    public string \$linguagem = ["PHP 8.x"];
     public string \$database = "MySQL / PDO";
     public string \$ambiente = "Docker / Cmder";
-    public string \$objetivo = "Desenvolvedor PHP Júnior";
+    public string \$objetivo = "Desenvolvedor PHP";
 
     public function estudar(): void {
         echo "Praticando, aplicando boas práticas e evoluindo!";
@@ -24,7 +24,7 @@ class Pablo {
 }
 ```
 
-- 🐘 **Focado em PHP 8 moderno** e no ecossistema completo do Laravel 11.
+- 🐘 **Focado em PHP 8 moderno** e no ecossistema completo do Laravel.
 - 🧠 **Arquitetura & Boas Práticas:** Route Model Binding, Form Requests e Eloquent Accessors.
 - 🐋 **Infraestrutura:** Utilizando Docker para isolamento de ambientes de desenvolvimento.
 - 🗄️ **Banco de Dados:** Manipulação estruturada de dados usando MySQL e persistência com PDO.
@@ -37,7 +37,7 @@ class Pablo {
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | `PHP 8.x` , `JavaScript` , `HTML5` , `CSS3` |
-| **Frameworks** | `Laravel 11` |
+| **Frameworks** | `Laravel` |
 | **Bancos de Dados** | `MySQL` , `PDO (Persistência)` |
 | **Ferramentas e Ambiente** | `Docker` , `Git` , `GitHub` , `Composer` , `Cmder` |
 
@@ -53,6 +53,6 @@ class Pablo {
 
 ### 🎯 Objetivo profissional
 
-Meu objetivo atual é ingressar em uma equipe de tecnologia como desenvolvedor júnior ou estagiário, onde eu possa somar com minha disciplina e acelerar meu aprendizado prático no ecossistema PHP.
+Meu objetivo atual é ingressar em uma equipe de tecnologia como desenvolvedor júnior , onde eu possa somar com minha disciplina e acelerar meu aprendizado prático no ecossistema PHP/Laravel.
 
 💻 *Sempre aprendendo. Sempre evoluindo.* 🚀
